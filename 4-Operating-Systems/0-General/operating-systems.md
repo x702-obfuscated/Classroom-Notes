@@ -142,10 +142,15 @@ A `system call` is a mechanism that allows a program or application to request a
 
 <br>
 
-`Command Line Interface (CLI)`, is a text-based interface used to interact with the operating system. 
-* Users enter commands in a terminal or command prompt to perform various tasks, such as file management, system configuration, and program execution. 
+#### Shell Types:
 
+`Command Line Interface (CLI)`: a text-based interface used to interact with the operating system. 
+* Users enter commands in a terminal or command prompt to perform various tasks, such as file management, system configuration, and program execution. 
 * The CLI allows for powerful and precise control over the system.
+
+<br>
+
+`Graphical User Interface GUI`: a type of user interface that allows people to interact with a computer or electronic device through visual elements such as windows, icons, buttons, menus, and images, rather than typing text commands.
 
 <br>
 
@@ -176,9 +181,7 @@ A `system call` is a mechanism that allows a program or application to request a
   - `System Utilites`: Tools and programs that perform system maintenance and configuration tasks.
   - `Security Mechanisms`: Components that enforce security policies and protect the system.
 
-<br>
 
-A `Graphical User Interface GUI`: is a type of user interface that allows people to interact with a computer or electronic device through visual elements such as windows, icons, buttons, menus, and images, rather than typing text commands.
 
 
 <br>
